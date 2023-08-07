@@ -1,0 +1,8 @@
+logresolve Statistics:
+Entries: 14508
+    With name   : 0
+    Resolves    : 404
+    - No reverse : 146
+    - Double lookup failed : 56
+Cache hits      : 14104
+Cache size      : 404
